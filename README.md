@@ -1,2 +1,2 @@
-# Onboarding
-Resources for onboarding new team members
+# Welcome
+This repository will serve as a starting point for new projects and contributors
